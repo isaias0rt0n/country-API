@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#clipboard-About-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-contents-covered-in-the-course">contents covered in the course</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#open_file_folder-referência">References</a>
 </p>
 
@@ -20,6 +21,13 @@ This project worked API with python. We saw concepts of request and response, js
 - Json
 - API
 - Command line argument passing
+
+## :gear: installation
+```
+$ git clone https://github.com/isaias0rt0n/country-API.git
+$ cd /country-API
+$ python countries.py --help
+```
 
 ## :open_file_folder: Referência
 
