@@ -11,7 +11,7 @@
 
 ## :clipboard: About the project
 
-This project worked API with python. We saw concepts of request and response, json, queries to a country API, information extraction, virtualenv, etc. We also cover the concepts of cli, running the program using the command line, with flags and parameters.
+This project was worked API with python. We saw concepts of request and response, json, queries to a country API, information extraction, virtualenv, etc. We also cover the concepts of cli, running the program using the command line, with flags and parameters.
 
 ## :memo: Contents covered in the course
 
